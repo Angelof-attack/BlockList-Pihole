@@ -9,3 +9,9 @@ gtq6.sct.sc-prod.net
 us-east1-aws.api.snapchat.com
 gcp.api.snapchat.com
 usc.adserver.snapads.com
+r3---sn-5goeenez.c.2mdn.net
+www.ntppool.org
+safebrowsing.googleapis.com
+android.googleapis.com
+onecall.cdn.prismic.io
+sgtm.onecall.no
