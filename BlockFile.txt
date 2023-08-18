@@ -32,3 +32,4 @@
 0.0.0.0 support.snapchat.com
 0.0.0.0 snapads.com
 0.0.0.0 snapkit.com
+# [next]
