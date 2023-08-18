@@ -1,20 +1,21 @@
-analytics.snapchat.com
-app-analytics.snapchat.com
-snapads.com
-usc.adserver.snapads.com
-app-analytics-v2.snapchat.com
-snapchat-proxy.appspot.com
-bolt-gcdn.sc-cdn.net
-gtq6.sct.sc-prod.net
-us-east1-aws.api.snapchat.com
-gcp.api.snapchat.com
-usc.adserver.snapads.com
-r3---sn-5goeenez.c.2mdn.net
-www.ntppool.org
-safebrowsing.googleapis.com
-android.googleapis.com
-onecall.cdn.prismic.io
-sgtm.onecall.no
+# [snapchat.com]
+0.0.0.0 analytics.snapchat.com
+0.0.0.0 app-analytics.snapchat.com
+0.0.0.0 snapads.com
+0.0.0.0 usc.adserver.snapads.com
+0.0.0.0 app-analytics-v2.snapchat.com
+0.0.0.0 snapchat-proxy.appspot.com
+0.0.0.0 bolt-gcdn.sc-cdn.net
+0.0.0.0 gtq6.sct.sc-prod.net
+0.0.0.0 us-east1-aws.api.snapchat.com
+0.0.0.0 gcp.api.snapchat.com
+0.0.0.0 usc.adserver.snapads.com
+0.0.0.0 r3---sn-5goeenez.c.2mdn.net
+0.0.0.0 www.ntppool.org
+0.0.0.0 safebrowsing.googleapis.com
+0.0.0.0 android.googleapis.com
+0.0.0.0 onecall.cdn.prismic.io
+0.0.0.0 sgtm.onecall.no
 0.0.0.0 snapchat.com
 0.0.0.0 www.snapchat.com
 0.0.0.0 businesshelp.snapchat.com
