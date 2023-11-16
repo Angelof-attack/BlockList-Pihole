@@ -96,8 +96,8 @@ k5a.io
 cl-eu2.k5a.io
 medialaben.no
 aas.medialaben.no
-medietall.no
-log.medietall.no
+**medietall.no
+**log.medietall.no
 *storage.googleapis.com
 
 
