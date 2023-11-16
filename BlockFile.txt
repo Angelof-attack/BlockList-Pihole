@@ -81,15 +81,15 @@ vgc.no
 # (DAGBLADET.NO
 *doubleclick.net
 securepubads.g.doubleclick.net
-*gstatic.com
-*www.gstatic.com
-*jwpcdn.com
-*ssl.p.jwpcdn.com
+**gstatic.com
+**www.gstatic.com
+**jwpcdn.com
+**ssl.p.jwpcdn.com
 *jwplayer.com
 *cdn.jwplayer.com
-*jwpltx.com
-*prd.jwpltx.com
-*jwpsrv.com
+**jwpltx.com
+**prd.jwpltx.com
+**jwpsrv.com
 *assets-jpcust.jwpsrv.com
 *videos-cloudfront-usp.jwpsrv.com
 k5a.io
