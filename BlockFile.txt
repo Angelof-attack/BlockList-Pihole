@@ -80,7 +80,7 @@ vgc.no
 
 # (DAGBLADET.NO
 *doubleclick.net
-*securepubads.g.doubleclick.net
+securepubads.g.doubleclick.net
 *gstatic.com
 *www.gstatic.com
 *jwpcdn.com
@@ -92,9 +92,9 @@ vgc.no
 *jwpsrv.com
 *assets-jpcust.jwpsrv.com
 *videos-cloudfront-usp.jwpsrv.com
-*k5a.io
-*cl-eu2.k5a.io
-*medialaben.no
+k5a.io
+cl-eu2.k5a.io
+medialaben.no
 *aas.medialaben.no
 *medietall.no
 *log.medietall.no
