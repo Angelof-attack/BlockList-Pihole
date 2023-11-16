@@ -79,6 +79,7 @@ browser.sentry-cdn.com
 vgc.no
 
 # (DAGBLADET.NO
+dagbladet.no/app/aas/a
 *doubleclick.net
 securepubads.g.doubleclick.net
 **gstatic.com
